@@ -5,7 +5,7 @@ Welcome, and thank you for your interest in interning at **Pie**!
 This short assignment is designed to assess your real-world skills across different roles, based on features we're building at Pie. Your task is to build/design a simple, focused version of our short-form video viewing experience - a scrollable vertical video feed with interactive overlays and contextual drawers.
 
 - **📌 Final Submission Deadline:** 
-🕛 June 4, 2025 — 11:59 PM IST
+🕛 June 4, 2025 - 11:59 PM IST
 - **👤 Format:** Individual
 - **🛠 Submission:**  
   * Developers: GitHub repository link with README & setup instructions
@@ -20,10 +20,10 @@ This short assignment is designed to assess your real-world skills across differ
 
 ## 🗂 Table of Contents
 
-1. [Frontend Intern Assignment](#frontend-intern-assignment)
-2. [Backend Intern Assignment](#backend-intern-assignment)
-3. [Mobile Intern Assignment (React Native)](#mobile-intern-assignment-react-native)
-4. [UI/UX Design Intern Assignment](#uiux-design-intern-assignment)
+1. [Frontend Intern Assignment](#-frontend-intern-assignment)
+2. [Backend Intern Assignment](#-backend-intern-assignment)
+3. [Mobile Intern Assignment (React Native)](#-mobile-intern-assignment-react-native)
+4. [UI/UX Design Intern Assignment](#-uiux-design-intern-assignment)
 
 ---
 
